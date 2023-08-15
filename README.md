@@ -1,2 +1,2 @@
-# Football Data  Scraping 
-This repository is a compilation of data scraping from different statistics providers such as FBREF, StatsBomb, and Understat.
+# Football Data
+In this repository I show you how I obtain data from different football statistics providers, such as FBREF, StatsBomb, and Understat.
