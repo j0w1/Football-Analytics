@@ -1,5 +1,5 @@
 # Football Analytics
-This repository is dedicated to the exploration of football data through code. Here, you'll find different folders with Jupyter Notebooks useful to obtain data from [FBREF](https://fbref.com/en/) and [StatsBomb](https://statsbomb.com/es/) (free data).
+This repository is dedicated to the exploration of football data through code. Here, you'll find different folders with Jupyter Notebooks useful to obtain data from [FBREF](https://fbref.com/en/), [StatsBomb](https://statsbomb.com/es/) (free data) and [Whoscored](https://www.whoscored.com/).
 
 ## Folder Structure
 
