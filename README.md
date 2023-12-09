@@ -7,5 +7,7 @@ This repository is dedicated to the exploration of football data through code. H
 
 **StatsBomb**: within the StatsBomb folder, there's a Jupyter Notebook illustrating how to obtain data from StatsBomb's free API.
 
+**Whoscored**: it contains a Jupyter Notebook that provides useful code to scrape event data from this website.
+
 ## Contributions
 Contributions are highly encouraged! Whether you have additional code, improvements, or new ideas, feel free to open a pull request to share them with the community.
